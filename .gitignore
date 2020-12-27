@@ -9,6 +9,8 @@ dist
 .idea
 site
 .coverage
+.coverage.*
+.testmondata
 htmlcov
 .pytest_cache
 coverage.xml
